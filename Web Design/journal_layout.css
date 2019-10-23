@@ -1,0 +1,37 @@
+.Zero
+{
+	border: 5px solid green;
+	width: 1000px;
+	color: blue;
+}
+.First
+{
+	border: 5px solid red;
+}
+.Second
+{
+	border: 5px solid orange;
+}
+.ss
+{
+	background: lightblue;
+}
+.blue
+{
+	border: 5px solid blue;
+}
+
+#ww
+{
+	border: 5px solid purple;
+	width: 200px;
+}
+.blue2
+{
+	border: 5px solid blue;
+}
+#qq
+{
+	border: 5px solid purple; 
+	width: 400px;
+}
