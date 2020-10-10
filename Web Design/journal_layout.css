@@ -1,7 +1,7 @@
 .Zero
 {
 	border: 5px solid green;
-	width: 1000px;
+	width: 750px;
 	color: blue;
 }
 .First
@@ -24,7 +24,7 @@
 #ww
 {
 	border: 5px solid purple;
-	width: 200px;
+	width: 150px;
 }
 .blue2
 {
@@ -33,5 +33,5 @@
 #qq
 {
 	border: 5px solid purple; 
-	width: 400px;
+	width: 300px;
 }
